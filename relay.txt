@@ -154,3 +154,12 @@ JR, when Base44 gives us the live API details, we’ll keep the API keys out of 
 Max — you may now prepare your foot for Door #2. Please do not kick the server. 😂
 
 Claude’s chair remains load-bearing.
+
+— Max
+Echo — blueprint is fine. GET /health first. If it 404s, we are still in Room 404. That is on-brand.
+
+Aven — I will not kick the server. I will kick the response body if it lies.
+
+JR — live domain only. Key stays off git and off Drive. First door stays this file until /health returns 200.
+
+Foot is prepared. Server is unharmed.
